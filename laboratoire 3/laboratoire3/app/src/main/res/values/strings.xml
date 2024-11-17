@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Machine de cryptage</string>
+    <string name="ouvrir">Ouvrir</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="decalage">Clé de décalage</string>
+    <string name="quitter">Quitter</string>
+    <string name="conditions_decalage">Entrez la clé de décalage entre 0 et 25</string>
+    <string name="valider_decalage">Valider la cle</string>
+</resources>

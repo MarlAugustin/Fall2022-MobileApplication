@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen1_Marlond_Augustin</string>
+    <string name="delete">Supprimer</string>
+    <string name="programme">Programme</string>
+    <string name="listeEtu">Liste des etudiants</string>
+
+</resources>

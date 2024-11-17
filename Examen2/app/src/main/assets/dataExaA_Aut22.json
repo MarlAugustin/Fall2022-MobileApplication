@@ -1,0 +1,37 @@
+[
+  {
+    "codeCours": "101-713-MO",
+    "nomCours": "Les grands enjeux environnementaux",
+    "description": "Cours qui vous éclairera sur ces différentes problématiques et apportera des solutions permettant d’orienter vos choix citoyens."
+  },
+  {
+    "codeCours": "202-723-MO",
+    "nomCours": "Science et fiction",
+    "description": "Cours qui vous permettra de distinguer les mythes de la réalité et de jeter un regard critique sur l’information scientifique transmise par les médias."
+  },
+  {
+    "codeCours": "330-503-MO",
+    "nomCours": "Histoire des civilisations disparues",
+    "description": "Cours où nous aborderons le contexte de naissance des civilisations, leur épanouissement et les phénomènes qui ont accéléré leur déclin."
+  },
+  {
+    "codeCours": "360-523-MO",
+    "nomCours": "Premiers soins",
+    "description": "Cours qui permet de résoudre un problème simple (situation d’urgence) par l’application d’une démarche scientifique de base (plan d’intervention)."
+  },
+  {
+    "codeCours": "410-503-MO",
+    "nomCours": "Gérer ses finances personnelles",
+    "description": "Cours qui vise à se familiariser à la gestion des finances personnelles et au monde financier."
+  },
+  {
+    "codeCours": "420-513-MO",
+    "nomCours": "Programmation en Java",
+    "description": "Cours qui présente des notions de programmation en Java comme une introduction personnelle à la programmation."
+  },
+  {
+    "codeCours": "570-ETZ-03",
+    "nomCours": "Initiation à la photographie",
+    "description": "Cours qui vise à initier au langage photographique dans une perspective artistique."
+  }
+]

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Travail pratique 1-MarlondAugustin</string>
+    <string name="titre_application">ReservoTable</string>
+    <string name="reserver">RESERVE A TABLE</string>
+    <string name="afficher">SHOW ALL RESERVATIONS</string>
+    <string name="afficher_des_reserv">Display of bookings</string>
+    <string name="titre_reservation">Reservation of seats in the restaurant</string>
+    <string name="place_restantes">remaining seats</string>
+    <string name="place_reserver">reserved seats</string>
+    <string name="nom">Name</string>
+    <string name="numero_tel">Phone number</string>
+    <string name="reserver_une_table">BOOK THE TABLE</string>
+    <string name="choisir_une_date">Select a date</string>
+    <string name="place">Seats</string>
+    <string name="pas_de_reservation">You must reserve at least one seat</string>
+    <string name="manque_de_place">There is not enough space to make the reservation</string>
+    <string name="format_numero_telephone">Your cellphone number must respect the format 999-999-9999</string>
+    <string name="champ_vide">You must fill in all the fields</string>
+    <string name="reservation_sauvegarder">Your booking as been saved</string>
+    <string name="numero_de_reservation">Booking number: </string>
+</resources>

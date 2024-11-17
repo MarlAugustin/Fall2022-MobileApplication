@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Miam-O-Pizza-Labo4</string>
+    <string name="nom_resto">Marlond\'s Pizza</string>
+    <string name="choix_menu">Accéder au menu</string>
+    <string name="nom">Entrez votre  nom</string>
+    <string name="telephone">Entrez votre  numéro de téléphone</string>
+    <string name="commande">Commande pour: </string>
+    <string name="menu">Menu Marlond\'s Pizza</string>
+    <string name="repas_selectionne">Commander le repas sélectionné</string>
+</resources>

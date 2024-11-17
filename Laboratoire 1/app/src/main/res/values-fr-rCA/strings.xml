@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratoire1-MarlondAugustin</string>
+    <string name="courriel">Votre courriel</string>
+    <string name="motDePasse">Votre mot de passe</string>
+    <string name="afficher">Afficher votre mot de passe</string>
+    <string name="valider">Valider votre mot de passe</string>
+    <string name="champValide">Courriel et mot de passe valide</string>
+    <string name="champInvalide">Courriel ou mot de passe non valide</string>
+</resources>

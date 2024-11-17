@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_ouvrir"
+        android:title="@string/ouvrir"
+        android:icon="@drawable/ic_baseline_folder_24"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mnu_sauvegarder"
+        android:title="@string/sauvegarder"
+        android:icon="@drawable/ic_baseline_save_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/mnu_decalage"
+        android:title="@string/decalage" />
+    <item
+        android:id="@+id/mnu_quitter"
+        android:title="@string/quitter" />
+</menu>

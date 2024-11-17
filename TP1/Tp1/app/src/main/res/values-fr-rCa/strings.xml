@@ -1,0 +1,21 @@
+<resources>
+        <string name="app_name">Tp1_MarlondAugustin</string>
+        <string name="titre_application">ReservoTable</string>
+        <string name="reserver">RÉSERVER UNE TABLE</string>
+        <string name="afficher">AFFICHER LES RÉSERVATIONS</string>
+        <string name="afficher_des_reserv">Affichage des réservations</string>
+        <string name="titre_reservation">Réservation de places au restaurant</string>
+        <string name="place_restantes">places restantes</string>
+        <string name="place_reserver">places réservées</string>
+        <string name="nom">Nom de la personne</string>
+        <string name="numero_tel">Numéro de téléphone</string>
+        <string name="reserver_une_table">RÉSERVER LA TABLE</string>
+        <string name="choisir_une_date">Sélectionner une date</string>
+        <string name="place">places</string>
+        <string name="pas_de_reservation">Vous devez reserver aux moins une table</string>
+        <string name="manque_de_place">Il n\'y a pas assez de place pour faire la réservation</string>
+        <string name="format_numero_telephone">Votre numéro de téléphone doit respecter le Format 999-999-9999</string>
+        <string name="champ_vide">Vous devez remplir tous les champs</string>
+        <string name="reservation_sauvegarder">la réservation a été sauvegardée</string>
+        <string name="numero_de_reservation">Numéro de réservation: </string>
+</resources>

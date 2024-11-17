@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="img_width" >420dp</dimen>
+    <dimen name="img_heigth">250dp</dimen>
+    <dimen name="texte_size_soustitre">22sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+</resources>

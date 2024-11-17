@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:orientation="vertical"
+    android:weightSum="6"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/img_heigth"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/reservation" />
+
+    <TextView
+        android:id="@+id/tv_titre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/titre_application"
+        android:textColor="@color/purple_200"
+        android:textSize="@dimen/text_size_title" />
+
+    <Spinner
+        android:id="@+id/spin_restaurant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:entries="@array/listeRestaurant"
+        android:spinnerMode="dropdown" />
+
+    <TextView
+        android:id="@+id/tv_placeRestantes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/place_restantes"
+        android:textSize="@dimen/texte_size_soustitre" />
+
+    <Button
+        android:id="@+id/btn_reserver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:minWidth="48dp"
+        android:text="@string/reserver"
+        android:textSize="@dimen/texte_size_soustitre" />
+
+    <Button
+        android:id="@+id/btn_afficher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:text="@string/afficher"
+        android:textSize="@dimen/texte_size_soustitre" />
+
+</LinearLayout>

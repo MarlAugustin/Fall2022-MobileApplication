@@ -1,0 +1,39 @@
+{
+  "Articles": {
+    "IYlZmvMXfyROiY6lOC7yRMseSpo2": {
+      "categorie": "Sport",
+      "message": "L'equipe Canadienne de soccer est retour aux pays suite  leurs dfaites au Qatar.",
+      "sousTitre": "Coupe du monde Qatar 2022",
+      "titre": "De retour chez eux",
+      "uuid": "IYlZmvMXfyROiY6lOC7yRMseSpo2"
+    },
+    "IYlZmvMXfyROiY6lOC7yRMseSpo2_2": {
+      "categorie": "Sport",
+      "message": "La France vaincue la Pologne 3-1. Kylian Mbappe marqua 2 buts.",
+      "sousTitre": "Coupe du monde Qatar 2022",
+      "titre": "La France avance pour le quart de finale",
+      "uuid": "IYlZmvMXfyROiY6lOC7yRMseSpo2_2"
+    },
+    "W0xtjy8QvkTvDnUN83VCTgeVIyX2": {
+      "categorie": "Crypto",
+      "message": "It'is What it is billions of consummer's money vanished",
+      "sousTitre": "Sam Bankman Fried ",
+      "titre": "Ftx collapse",
+      "uuid": "W0xtjy8QvkTvDnUN83VCTgeVIyX2"
+    },
+    "j8NHSfcoC4MAfFQxXcbPBGSkKR63": {
+      "categorie": "Actualité",
+      "message": "After an intense fight Naruto, Boruto, Kawaki and me have defeated the kara leader Jigen.",
+      "sousTitre": "Jigen is dead",
+      "titre": "Kara organisation",
+      "uuid": "j8NHSfcoC4MAfFQxXcbPBGSkKR63"
+    },
+    "lNNNaNUkcxOTXDZ1MkRP10YQ0sl1": {
+      "categorie": "Actualité",
+      "message": "After an intense fight, I've defeated the Jiren and become the strongest mortal in the multiverse",
+      "sousTitre": "Goku vs Jiren",
+      "titre": "Tournament of power",
+      "uuid": "lNNNaNUkcxOTXDZ1MkRP10YQ0sl1"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "codeCours": "120-503-MO",
+    "nomCours": "Nutrition passeport santé",
+    "description": "Cours qui vous permet d’acquérir des notions en nutrition selon les récentes découvertes scientifiques ainsi que des tendances actuelles."
+  },
+  {
+    "codeCours": "203-503-MO",
+    "nomCours": "Astronomie pratique",
+    "description": "Cours qui vous permet de se familiariser auxrudiments de l’observation des différents objets célestes avec un téléscope."
+  },
+  {
+    "codeCours": "305-733-MO",
+    "nomCours": "Se préparer pour un séjour à l'étranger",
+    "description": "Ce cours qui permet de se préparer pour leur expérience à l’étranger en tant que citoyen du monde pour un projet de mobilité internationale."
+  },
+  {
+    "codeCours": "360-ESZ-MO",
+    "nomCours": "Logiciels appliqués en sciences",
+    "description": "Cours qui permet une introduction aux principaux logiciels appliqués au domaine scientifique."
+  },
+  {
+    "codeCours": "410-513-MO",
+    "nomCours": "Démarrer son entreprise",
+    "description": "Cours qui permet à l’étudiant d’évaluer ses chances de devenir un jour entrepreneur et de démarrer avec succès sa propre entreprise."
+  },
+  {
+    "codeCours": "504-713-MO",
+    "nomCours": "Jardin, écologie, art et esthétique",
+    "description": "Cours qui vise à le familiariser avec les fondements de l’art des jardins et de la réalisation d'un projet d’aménagement paysager simple."
+  },
+  {
+    "codeCours": "570-503-03",
+    "nomCours": "Découvrir les trésors du patrimoine mondial",
+    "description": "Cours qui permet de découvrir la richesse de la nature et de la culture sur le patrimoine mondial de l'UNESCO."
+  }
+]

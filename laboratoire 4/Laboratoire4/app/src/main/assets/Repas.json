@@ -1,0 +1,86 @@
+[
+  {
+    "NoRepas": 1,
+    "Nom": "STEAK ET CHAMPIGNONS",
+    "Description": "Steak, champignons, oignons et fromage",
+    "Categorie": "Pizzas",
+    "Prix": 15.29
+  },
+  {
+    "NoRepas": 2,
+    "Nom": "TOUTE GARNIE",
+    "Description": "Fromage, pepperoni, champignons et piments verts",
+    "Categorie": "Pizzas",
+    "Prix": 17.99
+  },
+  {
+    "NoRepas": 3,
+    "Nom": "TROIS FROMAGES",
+    "Description": "Mozarella, feta et parmesan",
+    "Categorie": "Pizzas",
+    "Prix": 18.99
+  },
+  {
+    "NoRepas": 4,
+    "Nom": "Poutine au poulet",
+    "Description": "Frite, poulet, fromage, sauce",
+    "Categorie": "Casse-croûte",
+    "Prix": 11.99
+  },
+  {
+    "NoRepas": "5",
+    "Nom": "Marinara",
+    "Description": "Sauce tomate, ail, origan, basilic biologique, huile d'olive, romano",
+    "Categorie": "Pizzas",
+    "Prix": 9
+  },
+  {
+    "NoRepas": "6",
+    "Nom": "Courgette et ricotta",
+    "Description": "Zeste de citron, fior di Latte, huile d'olive, grana padano, poivre noir, basilic",
+    "Categorie": "Pizzas",
+    "Prix": 13
+  },
+  {
+    "NoRepas": "7",
+    "Nom": "Calzone salami et ricotta",
+    "Description": "Viandes biologiques de Charlevoix, fior di Latte, sauce tomate, pecorino, romano, huile d'olive, basilic, poivre noir",
+    "Categorie": "Pizzas",
+    "Prix": 15
+  },
+  {
+    "NoRepas": "8",
+    "Nom": "Prosciutto",
+    "Description": "Huile d'olive, grana padano, origan, mozzarella di Bufala, tomates cerises, roquette",
+    "Categorie": "Pizzas",
+    "Prix": 17
+  },
+  {
+    "NoRepas": "9",
+    "Nom": "Méditerranéenne",
+    "Description": "Sauce tomate, mozzarella, champignons sautés, poivrons rôtis, prosciutto, parmesan",
+    "Categorie": "Pizzas",
+    "Prix": 16
+  },
+  {
+    "NoRepas": "10",
+    "Nom": "Végétarienne",
+    "Description": "Pesto de basilic, kale, mozzarella, oignon caramélisé, tomates rôties",
+    "Categorie": "Pizzas",
+    "Prix": 15
+  },
+  {
+    "NoRepas": "11",
+    "Nom": "Légumes grillés",
+    "Description": "Sauce tomate, aubergine, poivron, courgette, fior di Latte, basilic, huile d'olive, grana padano",
+    "Categorie": "Pizzas",
+    "Prix": 15
+  },
+  {
+    "NoRepas": "12",
+    "Nom": "Panna cotta",
+    "Description": "Fraise du Québec, pistache, fleur de sel, caramel à l'érable",
+    "Categorie": "Dessert",
+    "Prix": 8
+  }
+]
